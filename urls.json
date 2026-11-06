@@ -1,15 +1,38 @@
 [
   {
-    "name": "Example scholarship page",
-    "url": "PASTE_THE_OFFICIAL_PAGE_URL_HERE",
-    "selector": "",
-    "keywords": ["deadline", "apply", "application", "eligib"],
-    "ignore": ["visitors", "last updated"],
-    "enabled": false
+    "name": "Scholars4Dev",
+    "url": "https://www.scholars4dev.com/",
+    "keywords": ["scholarship", "bachelor", "master", "deadline"],
+    "enabled": true
   },
   {
-    "name": "Example trade notice page",
-    "url": "PASTE_ANOTHER_OFFICIAL_PAGE_URL_HERE",
-    "enabled": false
+    "name": "International Education Financial Aid (IEFA)",
+    "url": "https://www.iefa.org/",
+    "keywords": ["grant", "scholarship", "international"],
+    "enabled": true
+  },
+  {
+    "name": "EduCanada Scholarships",
+    "url": "https://www.educanada.ca/scholarships-bourses/non_can/index.aspx?lang=eng",
+    "keywords": ["scholarship", "study in canada", "international"],
+    "enabled": true
+  },
+  {
+    "name": "Study Australia Scholarships",
+    "url": "https://www.studyaustralia.gov.au/en/plan-your-studies/scholarships",
+    "keywords": ["scholarships", "international", "students"],
+    "enabled": true
+  },
+  {
+    "name": "Mastersportal Scholarships",
+    "url": "https://www.mastersportal.com/scholarships/",
+    "keywords": ["scholarship", "master", "deadline"],
+    "enabled": true
+  },
+  {
+    "name": "International Scholarships Search",
+    "url": "https://www.internationalscholarships.com/",
+    "keywords": ["financial aid", "scholarship", "award"],
+    "enabled": true
   }
 ]
