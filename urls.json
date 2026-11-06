@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Example scholarship page",
+    "url": "PASTE_THE_OFFICIAL_PAGE_URL_HERE",
+    "selector": "",
+    "keywords": ["deadline", "apply", "application", "eligib"],
+    "ignore": ["visitors", "last updated"],
+    "enabled": false
+  },
+  {
+    "name": "Example trade notice page",
+    "url": "PASTE_ANOTHER_OFFICIAL_PAGE_URL_HERE",
+    "enabled": false
+  }
+]
